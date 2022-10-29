@@ -1,0 +1,30 @@
+
+p {
+	text-indent: 50px;
+	text-align: justify;
+	padding-top: 0px;
+	padding-right: 200px;
+	padding-left:200px;
+	font-size: 18px;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	padding-bottom: 20px;
+
+}
+div {
+	background-image: url("2.JPG");
+}
+.r{
+	
+	margin: 40px 40px 40px 40px
+}
+.c{
+	
+	margin: 40px 40px 40px 150px
+}
+.l{
+	
+	margin: 40px 40px 40px 150px
+}
